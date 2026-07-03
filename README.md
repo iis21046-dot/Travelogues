@@ -58,6 +58,3 @@ To modify the extraction logic, update the `node_schemas` and `relationship_sche
 
 ### Model Selection
 Currently, the scripts are configured to use `qwen3.5:35b` or `gpt-oss:120b`. You can change the `model` parameter in the `ChatOllama` initialization within each file based on your available infrastructure.
-
-## License
-[Include your license here, e.g., MIT]
